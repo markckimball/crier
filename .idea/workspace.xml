@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1e02becc-7feb-4e33-8317-d907ae95ae27" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+        <option value="HTTP Request" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="$USER_HOME$/sdk/go1.15rc1" />
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="KubernetesApiPersistence">
+    <option name="context" value="minikube" />
+    <option name="namespace" value="default" />
+  </component>
+  <component name="ProjectId" id="1fQVNtJIXwjwzNpLW2nSdr2m3oq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="postgresql" />
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="HTTP Request" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/dockerdev-kubernetes" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.HTTP Request" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/deploy/sql" />
+    </key>
+  </component>
+  <component name="RestClientSettings">
+    <option name="REQUEST_HISTORY">
+      <list>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="https://www.google.com" />
+          <option name="urlPath" value="" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Docker.build Dockerfile">
+    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" nameIsGenerated="true">
+      <module name="crier" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <package value="crier" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="requests#1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$PROJECT_DIR$/deploy/requests.http" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="HTTP Request.requests#1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="555" y="723" width="804" height="677" key="#Deployment" timestamp="1596332319732">
+      <screen x="0" y="0" width="3840" height="2123" />
+    </state>
+    <state x="555" y="723" width="804" height="677" key="#Deployment/0.0.3840.2123@0.0.3840.2123" timestamp="1596332319732" />
+    <state x="530" y="797" width="804" height="677" key="#Docker" timestamp="1596417505086">
+      <screen x="0" y="0" width="3840" height="2123" />
+    </state>
+    <state x="530" y="797" width="804" height="677" key="#Docker/0.0.3840.2123@0.0.3840.2123" timestamp="1596417505086" />
+    <state x="755" y="898" width="404" height="327" key="#Go_Modules" timestamp="1596150472048">
+      <screen x="0" y="0" width="3840" height="2123" />
+    </state>
+    <state x="755" y="898" width="404" height="327" key="#Go_Modules/0.0.3840.2123@0.0.3840.2123" timestamp="1596150472048" />
+    <state x="333" y="913" width="1248" height="297" key="#SQL_Dialects" timestamp="1596331765712">
+      <screen x="0" y="0" width="3840" height="2123" />
+    </state>
+    <state x="333" y="913" width="1248" height="297" key="#SQL_Dialects/0.0.3840.2123@0.0.3840.2123" timestamp="1596331765712" />
+    <state x="274" y="758" width="1322" height="755" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596424949011">
+      <screen x="0" y="0" width="3840" height="2123" />
+    </state>
+    <state x="274" y="758" width="1322" height="755" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.3840.2123@0.0.3840.2123" timestamp="1596424949011" />
+    <state x="743" y="819" width="428" height="484" key="FileChooserDialogImpl" timestamp="1596410431478">
+      <screen x="0" y="0" width="3840" height="2123" />
+    </state>
+    <state x="743" y="819" width="428" height="484" key="FileChooserDialogImpl/0.0.3840.2123@0.0.3840.2123" timestamp="1596410431478" />
+    <state width="935" height="631" key="GridCell.Tab.0.bottom" timestamp="1596425209119">
+      <screen x="0" y="0" width="3840" height="2123" />
+    </state>
+    <state width="935" height="631" key="GridCell.Tab.0.bottom/0.0.3840.2123@0.0.3840.2123" timestamp="1596425209119" />
+    <state width="935" height="631" key="GridCell.Tab.0.center" timestamp="1596425209118">
+      <screen x="0" y="0" width="3840" height="2123" />
+    </state>
+    <state width="935" height="631" key="GridCell.Tab.0.center/0.0.3840.2123@0.0.3840.2123" timestamp="1596425209118" />
+    <state width="935" height="631" key="GridCell.Tab.0.left" timestamp="1596425209118">
+      <screen x="0" y="0" width="3840" height="2123" />
+    </state>
+    <state width="935" height="631" key="GridCell.Tab.0.left/0.0.3840.2123@0.0.3840.2123" timestamp="1596425209118" />
+    <state width="935" height="631" key="GridCell.Tab.0.right" timestamp="1596425209119">
+      <screen x="0" y="0" width="3840" height="2123" />
+    </state>
+    <state width="935" height="631" key="GridCell.Tab.0.right/0.0.3840.2123@0.0.3840.2123" timestamp="1596425209119" />
+    <state width="235" height="500" key="HiddenNamespacesPopup" timestamp="1596332097160">
+      <screen x="0" y="0" width="3840" height="2123" />
+    </state>
+    <state width="235" height="500" key="HiddenNamespacesPopup/0.0.3840.2123@0.0.3840.2123" timestamp="1596332097160" />
+    <state x="456" y="696" key="SettingsEditor" timestamp="1596416501776">
+      <screen x="0" y="0" width="3840" height="2123" />
+    </state>
+    <state x="456" y="696" key="SettingsEditor/0.0.3840.2123@0.0.3840.2123" timestamp="1596416501776" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1596406815859">
+      <screen x="0" y="0" width="3840" height="2123" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.3840.2123@0.0.3840.2123" timestamp="1596406815859" />
+    <state x="623" y="499" width="672" height="678" key="search.everywhere.popup" timestamp="1596425089459">
+      <screen x="0" y="0" width="3840" height="2123" />
+    </state>
+    <state x="623" y="499" width="672" height="678" key="search.everywhere.popup/0.0.3840.2123@0.0.3840.2123" timestamp="1596425089459" />
+  </component>
+</project>
