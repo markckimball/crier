@@ -29,11 +29,11 @@ case "$subcommand" in
   create)
 #    kubectl create -f postgres-configmap.yaml
     kubectl create configmap
-    kubectl create -f db.yaml
+    kubectl create -f ../resources/db.yaml
     exit $?
     ;;
   destroy)
-    kubectl delete -f db.yaml
+    kubectl delete -f ../resources/db.yaml
     exit $?
     ;;
   port-forward)

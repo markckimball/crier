@@ -1,7 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="1e02becc-7feb-4e33-8317-d907ae95ae27" name="Default Changelist" comment="" />
+    <list default="true" id="1e02becc-7feb-4e33-8317-d907ae95ae27" name="Default Changelist" comment="Adding readme">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deploy/resources/mongodb.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deploy/scripts/generate_mongo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deploy/build_dev" beforeDir="false" afterPath="$PROJECT_DIR$/deploy/scripts/build_dev" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deploy/db.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/deploy/resources/postgres.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deploy/requests.http" beforeDir="false" afterPath="$PROJECT_DIR$/deploy/resources/requests.http" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deploy/web.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/deploy/resources/web.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go.sum" beforeDir="false" afterPath="$PROJECT_DIR$/go.sum" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +48,10 @@
     </option>
   </component>
   <component name="GOROOT" path="$USER_HOME$/sdk/go1.15rc1" />
+  <component name="Git.Settings">
+    <branch-grouping />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="GoLibraries">
     <option name="indexEntireGoPath" value="false" />
   </component>
@@ -24,6 +60,7 @@
     <option name="namespace" value="default" />
   </component>
   <component name="ProjectId" id="1fQVNtJIXwjwzNpLW2nSdr2m3oq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -31,6 +68,7 @@
   <component name="PropertiesComponent">
     <property name="DatabaseDriversLRU" value="postgresql" />
     <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="GO_FMT" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="HTTP Request" />
@@ -41,6 +79,8 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/deploy/resources" />
+      <recent name="$PROJECT_DIR$/deploy/scripts" />
       <recent name="$PROJECT_DIR$/deploy/sql" />
     </key>
   </component>
@@ -80,6 +120,39 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="false" />
+                </map>
+              </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Adding readme" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding readme" />
+  </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
   </component>
@@ -104,6 +177,10 @@
       <screen x="0" y="0" width="3840" height="2123" />
     </state>
     <state x="274" y="758" width="1322" height="755" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.3840.2123@0.0.3840.2123" timestamp="1596424949011" />
+    <state x="672" y="863" width="569" height="396" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1596497243630">
+      <screen x="0" y="0" width="3840" height="2123" />
+    </state>
+    <state x="672" y="863" width="569" height="396" key="#com.intellij.fileTypes.FileTypeChooser/0.0.3840.2123@0.0.3840.2123" timestamp="1596497243630" />
     <state x="743" y="819" width="428" height="484" key="FileChooserDialogImpl" timestamp="1596410431478">
       <screen x="0" y="0" width="3840" height="2123" />
     </state>
@@ -136,9 +213,13 @@
       <screen x="0" y="0" width="3840" height="2123" />
     </state>
     <state width="498" height="446" key="SwitcherDM/0.0.3840.2123@0.0.3840.2123" timestamp="1596406815859" />
-    <state x="623" y="499" width="672" height="678" key="search.everywhere.popup" timestamp="1596425089459">
+    <state x="555" y="797" width="804" height="528" key="Vcs.Push.Dialog.v2" timestamp="1596473066572">
       <screen x="0" y="0" width="3840" height="2123" />
     </state>
-    <state x="623" y="499" width="672" height="678" key="search.everywhere.popup/0.0.3840.2123@0.0.3840.2123" timestamp="1596425089459" />
+    <state x="555" y="797" width="804" height="528" key="Vcs.Push.Dialog.v2/0.0.3840.2123@0.0.3840.2123" timestamp="1596473066572" />
+    <state x="623" y="499" width="672" height="678" key="search.everywhere.popup" timestamp="1596499484931">
+      <screen x="0" y="0" width="3840" height="2123" />
+    </state>
+    <state x="623" y="499" width="672" height="678" key="search.everywhere.popup/0.0.3840.2123@0.0.3840.2123" timestamp="1596499484931" />
   </component>
 </project>
